@@ -3,3 +3,4 @@ Git is very strong.
 I love git.
 I love my girlfriend.
 My girlfriend just called me.
+fix a bug
