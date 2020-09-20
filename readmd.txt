@@ -1,5 +1,3 @@
 Git is a version control system.
 Git is very strong.
 I love git.
-Add a branch.
-Watch the sun goes down.
